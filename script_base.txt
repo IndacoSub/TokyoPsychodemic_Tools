@@ -1,0 +1,502 @@
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: Text
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# English Text
+
+[ga("StreamingAssets/AssetBundles/55dcb3ed9121bf9ef0d8bfabdc845806"), txt("English_Dump"), pid("-5772878906445150615"), kind("MONOBEHAVIOUR_TEXT")],
+
+# Japanese Text - Zero
+
+[ga("StreamingAssets/AssetBundles/37d00e9381cb7d4cf92a5f4d065e0c6e"), txt("JapaneseEmpty_Dump"), pid("7297410696347828523"), kind("MONOBEHAVIOUR_TEXT")],
+
+# Korean Text - Zero
+
+[ga("StreamingAssets/AssetBundles/b887f5fea29f43aaeee540ac6d3bf4ca"), txt("Korean_Dump"), pid("-5792013349248115420"), kind("MONOBEHAVIOUR_TEXT")],
+
+# Trad. Chinese Text - Zero
+
+[ga("StreamingAssets/AssetBundles/4ee6a47a207b64aaba845d945f6dcc1c"), txt("TraditionalChinese_Dump"), pid("9101228165997333261"), kind("MONOBEHAVIOUR_TEXT")],
+
+# Simpl. Chinese Text - Zero
+
+[ga("StreamingAssets/AssetBundles/b1510ad26fa429c93a7242000f428ab4"), txt("SimplifiedChinese_Dump"), pid("-5062618488882908613"), kind("MONOBEHAVIOUR_TEXT")],
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: In-Engine
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Audio Analysis
+
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644--1171625075445825482"), pid("-1171625075445825482"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644--4005419374166900299"), pid("-4005419374166900299"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644--6154740853787998489"), pid("-6154740853787998489"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644--6623544397654908559"), pid("-6623544397654908559"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644--8508821378083719870"), pid("-8508821378083719870"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-2063288927159607466"), pid("2063288927159607466"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-2499651350666547101"), pid("2499651350666547101"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-4997016222033597532"), pid("4997016222033597532"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-5422458386925866867"), pid("5422458386925866867"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-6217356813195865011"), pid("6217356813195865011"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-6952199384048181886"), pid("6952199384048181886"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-8242160752614369057"), pid("8242160752614369057"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/0b35e7d8db9bd177ca41f8178b1064ba"), txt("monob/audio/TextMeshProUGUI-CAB-664041accc1b5e174a42d49033cfa644-8836922568403996858"), pid("8836922568403996858"), kind("MONOBEHAVIOUR_FULL")],
+
+# Analysis (Image / Video)
+
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e--1337884397845895337"), pid("-1337884397845895337"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e--3935194780471735941"), pid("-3935194780471735941"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e--6398202450147616390"), pid("-6398202450147616390"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e--6986214651515184939"), pid("-6986214651515184939"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e--8566039773374375291"), pid("-8566039773374375291"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-1957858139309520557"), pid("1957858139309520557"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-3085607079984507316"), pid("3085607079984507316"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-5613542507704346952"), pid("5613542507704346952"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-6032278143679979668"), pid("6032278143679979668"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-7134561131999470082"), pid("7134561131999470082"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-7148676522681486386"), pid("7148676522681486386"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-8754629610377930438"), pid("8754629610377930438"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/824518e49d6429e69b7bbcbf5fc0da7d"), txt("monob/analysis/TextMeshProUGUI-CAB-f859d3958ab1ecae0f30b085bdd3305e-8921755158192694081"), pid("8921755158192694081"), kind("MONOBEHAVIOUR_FULL")],
+
+
+# Delivery
+
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5--2328663955672056898"), pid("-2328663955672056898"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5--5256919374822735875"), pid("-5256919374822735875"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5--5877765953569866562"), pid("-5877765953569866562"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5--6495183968077418724"), pid("-6495183968077418724"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5--992079395461989173"), pid("-992079395461989173"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5-1888860040317755724"), pid("1888860040317755724"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5-3585565631704363253"), pid("3585565631704363253"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/412fe928ece2c655cdc3ca5bae07cce7"), txt("monob/delivery/TextMeshProUGUI-CAB-5866e3489ebee8fb5c7be44e1345b4d5-5261609398055583892"), pid("5261609398055583892"), kind("MONOBEHAVIOUR_FULL")],
+
+# Desk
+
+[ga("StreamingAssets/AssetBundles/fd8a58f7cf5f77ec55efaba051ad7b54"), txt("monob/desk/TextMeshProUGUI-CAB-a4c6542058760a1abc82581075aa59b6--4552989617345721888"), pid("-4552989617345721888"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd8a58f7cf5f77ec55efaba051ad7b54"), txt("monob/desk/TextMeshProUGUI-CAB-a4c6542058760a1abc82581075aa59b6--6809536419815997600"), pid("-6809536419815997600"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd8a58f7cf5f77ec55efaba051ad7b54"), txt("monob/desk/TextMeshProUGUI-CAB-a4c6542058760a1abc82581075aa59b6--8333356431012678461"), pid("-8333356431012678461"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd8a58f7cf5f77ec55efaba051ad7b54"), txt("monob/desk/TextMeshProUGUI-CAB-a4c6542058760a1abc82581075aa59b6-5056967696281013775"), pid("5056967696281013775"), kind("MONOBEHAVIOUR_FULL")],
+
+# Document Shelf (Unused?)
+
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--2431449636721456914"), pid("-2431449636721456914"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--3316694257199008944"), pid("-3316694257199008944"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--3457501606942938722"), pid("-3457501606942938722"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--4559319271475759756"), pid("-4559319271475759756"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--510713958705035858"), pid("-510713958705035858"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--5462604110041170845"), pid("-5462604110041170845"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9--7202963069608951945"), pid("-7202963069608951945"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-3133371661929044225"), pid("3133371661929044225"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-4475651675536455048"), pid("4475651675536455048"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-4751839111535981034"), pid("4751839111535981034"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-736129939456352204"), pid("736129939456352204"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-8530556831143704941"), pid("8530556831143704941"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-866524105332325520"), pid("866524105332325520"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-8678030454334487065"), pid("8678030454334487065"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4d17fa5b3c0b49bc9e84eef8be4fa48c"), txt("monob/documentshelf/TextMeshProUGUI-CAB-85dd10c8ac31b17a75e7d38b62c7f5e9-8815951955319343795"), pid("8815951955319343795"), kind("MONOBEHAVIOUR_FULL")],
+
+# Door
+
+[ga("StreamingAssets/AssetBundles/1ad680c8387be044fc540880a5907f1c"), txt("monob/door/TextMeshProUGUI-CAB-e970387a68077e125440df139259b02d--7498606338387167678"), pid("-7498606338387167678"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/1ad680c8387be044fc540880a5907f1c"), txt("monob/door/TextMeshProUGUI-CAB-e970387a68077e125440df139259b02d-2614851343337259211"), pid("2614851343337259211"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/1ad680c8387be044fc540880a5907f1c"), txt("monob/door/TextMeshProUGUI-CAB-e970387a68077e125440df139259b02d-358748749909601622"), pid("358748749909601622"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/1ad680c8387be044fc540880a5907f1c"), txt("monob/door/TextMeshProUGUI-CAB-e970387a68077e125440df139259b02d-7245258104147138590"), pid("7245258104147138590"), kind("MONOBEHAVIOUR_FULL")],
+
+# Evidence Board
+
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058--1634449885160279868"), pid("-1634449885160279868"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058--2431590757073512400"), pid("-2431590757073512400"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058--6043221978528093929"), pid("-6043221978528093929"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058--722170199458016730"), pid("-722170199458016730"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058--8657646539318624200"), pid("-8657646539318624200"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-1276661594536347171"), pid("1276661594536347171"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-1764918731505984706"), pid("1764918731505984706"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-1993640453327133573"), pid("1993640453327133573"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-4850288339113280561"), pid("4850288339113280561"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-7007998039308031821"), pid("7007998039308031821"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-7045782136892992537"), pid("7045782136892992537"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-7205188056096136865"), pid("7205188056096136865"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/e96a993af23a890be1e87bd8e1c250ee"), txt("monob/evidenceboard/TextMeshProUGUI-CAB-7f48c60f2b0dc5a1d7aa754f59cfb058-9200905788763084528"), pid("9200905788763084528"), kind("MONOBEHAVIOUR_FULL")],
+
+# File Cabinet (ACTUAL Resource Shelves)
+
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--3504000721665516511"), pid("-3504000721665516511"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--3794667690442975155"), pid("-3794667690442975155"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--7337159259896836360"), pid("-7337159259896836360"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--8144877580477927226"), pid("-8144877580477927226"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--8329569548676091967"), pid("-8329569548676091967"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce--8468243656139553129"), pid("-8468243656139553129"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-1147267840853028539"), pid("1147267840853028539"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-1505457012048027807"), pid("1505457012048027807"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-3746529598918305338"), pid("3746529598918305338"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-4902529536106108812"), pid("4902529536106108812"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-6756923342561373544"), pid("6756923342561373544"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-7534899713593647176"), pid("7534899713593647176"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-7675012939227002918"), pid("7675012939227002918"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-7928634079433903677"), pid("7928634079433903677"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/9a0257a198b9ed62e67256317fe406c6"), txt("monob/filecabinet/TextMeshProUGUI-CAB-3b060d82836d39df5f051ddf59816dce-920230841628705248"), pid("920230841628705248"), kind("MONOBEHAVIOUR_FULL")],
+
+
+# Go Out
+
+[ga("StreamingAssets/AssetBundles/640e49b2bc11fc8faf81a4d4921f19fb"), txt("monob/goout/TextMeshProUGUI-CAB-a5b13f9e16340ad9da544bf598188298--8319619129075849221"), pid("-8319619129075849221"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/640e49b2bc11fc8faf81a4d4921f19fb"), txt("monob/goout/TextMeshProUGUI-CAB-a5b13f9e16340ad9da544bf598188298--8531032964435213253"), pid("-8531032964435213253"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/640e49b2bc11fc8faf81a4d4921f19fb"), txt("monob/goout/TextMeshProUGUI-CAB-a5b13f9e16340ad9da544bf598188298-5444673296057370106"), pid("5444673296057370106"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/640e49b2bc11fc8faf81a4d4921f19fb"), txt("monob/goout/TextMeshProUGUI-CAB-a5b13f9e16340ad9da544bf598188298-5858823373558919106"), pid("5858823373558919106"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/640e49b2bc11fc8faf81a4d4921f19fb"), txt("monob/goout/TextMeshProUGUI-CAB-a5b13f9e16340ad9da544bf598188298-7497259711191664414"), pid("7497259711191664414"), kind("MONOBEHAVIOUR_FULL")],
+
+# Kashiwabara
+
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--1039373849092770387"), pid("-1039373849092770387"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--1541644920142640432"), pid("-1541644920142640432"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--1723962013718932941"), pid("-1723962013718932941"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--1880873074486328358"), pid("-1880873074486328358"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--2396831711404121366"), pid("-2396831711404121366"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--3818553871397472272"), pid("-3818553871397472272"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--4293272455015327035"), pid("-4293272455015327035"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--7381307530937437541"), pid("-7381307530937437541"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--8016781107738766358"), pid("-8016781107738766358"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b--8970505179139478242"), pid("-8970505179139478242"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-137052735217572060"), pid("137052735217572060"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-2060021270312224652"), pid("2060021270312224652"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-2860432577508822471"), pid("2860432577508822471"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-3191768419327142091"), pid("3191768419327142091"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-3771589943864969406"), pid("3771589943864969406"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-6405899426646132429"), pid("6405899426646132429"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-6502515522437613618"), pid("6502515522437613618"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/938c310f2c0e2fd0fa4bdda4e1c7ed7e"), txt("monob/kashiwabara/TextMeshProUGUI-CAB-d127c19f87a184209ccc06c9662fe14b-7451457247596916182"), pid("7451457247596916182"), kind("MONOBEHAVIOUR_FULL")],
+
+# Kijima
+
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--3298597530444949795"), pid("-3298597530444949795"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--3324230451478039618"), pid("-3324230451478039618"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--3484530740210159182"), pid("-3484530740210159182"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--3867891151807645993"), pid("-3867891151807645993"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--4244891214106340466"), pid("-4244891214106340466"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--4346800219006958503"), pid("-4346800219006958503"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--4425458234723976110"), pid("-4425458234723976110"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--4684709979807106332"), pid("-4684709979807106332"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--4922077546462868882"), pid("-4922077546462868882"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--6361416293803802164"), pid("-6361416293803802164"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e--8879561816670680427"), pid("-8879561816670680427"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-1998862580486874143"), pid("1998862580486874143"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-2563412078522039801"), pid("2563412078522039801"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-2695606468958487026"), pid("2695606468958487026"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-2708446116139435763"), pid("2708446116139435763"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-2972736992443805984"), pid("2972736992443805984"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-3196999806798014037"), pid("3196999806798014037"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-4681903523131035470"), pid("4681903523131035470"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/ff219547a5b8c9a0cbe7e963cdd2d8fa"), txt("monob/kijima/TextMeshProUGUI-CAB-3596672dfd13ec164d0d9c114e99248e-5889398453923559400"), pid("5889398453923559400"), kind("MONOBEHAVIOUR_FULL")],
+
+#Save
+
+[ga("StreamingAssets/AssetBundles/aaae78706524aa47e28e19817adb57e0"), txt("monob/save/TextMeshProUGUI-CAB-78fd594bba74643ba23ad6dd76bf3923--6460036967359517745"), pid("-6460036967359517745"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/aaae78706524aa47e28e19817adb57e0"), txt("monob/save/TextMeshProUGUI-CAB-78fd594bba74643ba23ad6dd76bf3923--668677689462507145"), pid("-668677689462507145"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/aaae78706524aa47e28e19817adb57e0"), txt("monob/save/TextMeshProUGUI-CAB-78fd594bba74643ba23ad6dd76bf3923--6868540138723430808"), pid("-6868540138723430808"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/aaae78706524aa47e28e19817adb57e0"), txt("monob/save/TextMeshProUGUI-CAB-78fd594bba74643ba23ad6dd76bf3923-5235966920790923627"), pid("5235966920790923627"), kind("MONOBEHAVIOUR_FULL")],
+
+# Tin of Cat Food
+
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--1391047200913036756"), pid("-1391047200913036756"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--1863707334816175168"), pid("-1863707334816175168"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--2215527352864698291"), pid("-2215527352864698291"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--3582014327682284782"), pid("-3582014327682284782"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--3795548871744927694"), pid("-3795548871744927694"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--4446659759867258199"), pid("-4446659759867258199"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--5794335730920407933"), pid("-5794335730920407933"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--6341738959582903609"), pid("-6341738959582903609"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--6874809250238907346"), pid("-6874809250238907346"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1--8125118174384981761"), pid("-8125118174384981761"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1-2164585838490730081"), pid("2164585838490730081"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/fd321a81826f968a8c8086d118ed88bb"), txt("monob/catfood/TextMeshProUGUI-CAB-67ff98c4886c632f68026c891188b3c1-3835929414195317517"), pid("3835929414195317517"), kind("MONOBEHAVIOUR_FULL")],
+
+# Totsuka
+
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--1530231680873551843"), pid("-1530231680873551843"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--2092248665721739636"), pid("-2092248665721739636"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--356296033029057959"), pid("-356296033029057959"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--4101308980173037684"), pid("-4101308980173037684"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--527822278291997314"), pid("-527822278291997314"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--8704142896758004100"), pid("-8704142896758004100"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd--89901470340646386"), pid("-89901470340646386"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-1844238470060535167"), pid("1844238470060535167"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-4505862563212036540"), pid("4505862563212036540"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-4628029586872476466"), pid("4628029586872476466"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-8683215433254984489"), pid("8683215433254984489"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-8981629982304215702"), pid("8981629982304215702"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/58457106d19bde184b1679dee663fc82"), txt("monob/totsuka/TextMeshProUGUI-CAB-39303b78f9c24c6fbac458a66dd4f6bd-9169850133262753001"), pid("9169850133262753001"), kind("MONOBEHAVIOUR_FULL")],
+
+# Ureshino
+
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--2361808235344611794"), pid("-2361808235344611794"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--2570146339561595012"), pid("-2570146339561595012"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--3842138642300473144"), pid("-3842138642300473144"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--4018263939701207059"), pid("-4018263939701207059"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--6180629488506917637"), pid("-6180629488506917637"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--6699207023903747629"), pid("-6699207023903747629"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--7399431470934692474"), pid("-7399431470934692474"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--7641479898783036666"), pid("-7641479898783036666"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77--8445935757105218999"), pid("-8445935757105218999"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77-178268601917860033"), pid("178268601917860033"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77-5325579835946559403"), pid("5325579835946559403"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77-659113547437188921"), pid("659113547437188921"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77-7803760834936370964"), pid("7803760834936370964"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/c04550db5ea65c1cce902ce2b57fd031"), txt("monob/ureshino/TextMeshProUGUI-CAB-b071b24e303d4a7d7575963b2ed3fe77-784087591077403977"), pid("784087591077403977"), kind("MONOBEHAVIOUR_FULL")],
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: Graphics
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Evidence
+
+[ga("StreamingAssets/AssetBundles/61daeca39e180053885d831d1c0bf27e"), png("img/Icon_None"), pid("-1607939461700696307")],
+
+# Title Logo
+
+[ga("StreamingAssets/AssetBundles/c3ca8e6c5fcfea29f05c44505676cc8c"), png("img/TitleLogo_JapaneseEmpty"), pid("-982914535742948387")],
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_JapaneseEmpty"), pid("-982914535742948387")],
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_JapaneseEmpty"), pid("6603975574620127834")],
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_JapaneseEmpty"), pid("5638773286425077969")],
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_JapaneseEmpty"), pid("-112886367636431620")],
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_JapaneseEmpty"), pid("-2479827670872948451")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_JapaneseEmpty"), pid("-982914535742948387")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_JapaneseEmpty"), pid("6603975574620127834")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_JapaneseEmpty"), pid("5638773286425077969")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_JapaneseEmpty"), pid("-112886367636431620")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_JapaneseEmpty"), pid("-2479827670872948451")],
+[ga("sharedassets3.assets"), png("img/TitleLogo_JapaneseEmpty"), pid("4")],
+[ga("sharedassets9.assets"), png("img/TitleLogo_JapaneseEmpty"), pid("2")],
+[ga("sharedassets9.assets"), png("img/TitleLogo_JapaneseEmpty"), pid("3"), fid("0")],
+[ga("sharedassets9.assets"), png("img/TitleLogo_JapaneseEmpty"), pid("4"), fid("0")],
+[ga("sharedassets9.assets"), png("img/TitleLogo_JapaneseEmpty"), pid("5"), fid("0")],
+
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), txt("img/df9f466bee94bc56ad6f840b3b937e40_LogoAnchoredPosition"), pid("-3362877484798306935")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), txt("img/faecccc5442f41f266808873a378d7fb_LogoAnchoredPosition"), pid("-4420240525021525600")],
+
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), png("img/TitleLogo_Japanese"), pid("6603975574620127834")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), png("img/TitleLogo_Japanese"), pid("6603975574620127834")],
+[ga("sharedassets9.assets"), png("img/TitleLogo_Japanese"), pid("2")],
+
+[ga("StreamingAssets/AssetBundles/df9f466bee94bc56ad6f840b3b937e40"), txt("img/df9f_TitleLogo_English_sprite"), pid("-1317006617161977667")],
+[ga("StreamingAssets/AssetBundles/faecccc5442f41f266808873a378d7fb"), txt("img/faec_TitleLogo_English_sprite"), pid("-1317006617161977667")],
+[ga("sharedassets9.assets"), txt("img/sa9_TitleLogo_English_sprite"), pid("7"), fid("0")],
+
+# Character textures
+
+[ga("StreamingAssets/AssetBundles/b98d19eacb84a6775ad2249b7882a9af"), png("img/TomonaTexture"), pid("-6676509779809842889")],
+
+# Analysis Tool
+
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), png("img/AnalysisTool"), pid("7269927763395101536")],
+[ga("StreamingAssets/AssetBundles/62ec06c28f94ceb43bb6349852c84a22"), png("img/AnalysisToolV"), pid("1033110212910233083")],
+[ga("StreamingAssets/AssetBundles/79fe147c313b7986731c01ee95cf8fc3"), png("img/AnalysisToolV2"), pid("1033110212910233083")],
+[ga("sharedassets5.assets"), png("img/AnalysisToolV3"), pid("428")],
+[ga("StreamingAssets/AssetBundles/d4ab7bdb9d48da188767881003eb1fd4"), png("img/AnalysisToolS"), pid("7269927763395101536")],
+[ga("StreamingAssets/AssetBundles/bb250f3d1b13edcf6f9c1e5a8099d500"), png("img/AnalysisTool1"), pid("-4713944089877878338")],
+[ga("StreamingAssets/AssetBundles/2f151258f755a2d9d8f2b64d259cb975"), png("img/AnalysisTool2"), pid("7269927763395101536")],
+[ga("StreamingAssets/AssetBundles/9e2d5d6c81672e6b8429b5f16982cb6e"), png("img/AnalysisTool3"), pid("-4713944089877878338")],
+[ga("StreamingAssets/AssetBundles/fd0066a2b3158c9a464102c1faba236b"), png("img/AnalysisTool4"), pid("1033110212910233083")],
+[ga("sharedassets5.assets"), png("img/AnalysisTool5"), pid("295"), fid("0")],
+
+# AI Analysis
+
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysis"), pid("7930847060689904988"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysis2"), pid("-9198845475207711263"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysis3"), pid("5007"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysis4"), pid("4603"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysis5"), pid("10682"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysis6"), pid("10734"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysis7"), pid("17911"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysis8"), pid("18065"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/48ee4452ff3d2bbdaf11bfcc67075c9c"), txt("monob/AIAnalysis9"), pid("6132779055702905555"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/957ccf0f2e31e85abdbe5ba4f8649313"), txt("monob/AIAnalysis10"), pid("-4569054931419626188"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/b0555cf6ae71aee9b0e38b3cd7151394"), txt("monob/AIAnalysis11"), pid("5865617495563112395"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4be17daf55f05c65ccfd57f8ea68d7db"), txt("monob/AIAnalysis12"), pid("-4200690559007528278"), kind("MONOBEHAVIOUR_FULL")],
+
+# AI Analysis Success
+
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysisSuccess"), pid("6735859785408217173"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysisSuccess2"), pid("-5572278487853071328"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysisSuccess3"), pid("10794"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisSuccess4"), pid("4605"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysisSuccess5"), pid("10641"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysisSuccess6"), pid("17985"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysisSuccess7"), pid("17964"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/48ee4452ff3d2bbdaf11bfcc67075c9c"), txt("monob/AIAnalysisSuccess8"), pid("6966958743757096432"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/957ccf0f2e31e85abdbe5ba4f8649313"), txt("monob/AIAnalysisSuccess9"), pid("6475315137733209206"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/b0555cf6ae71aee9b0e38b3cd7151394"), txt("monob/AIAnalysisSuccess10"), pid("-7998945155933015593"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4be17daf55f05c65ccfd57f8ea68d7db"), txt("monob/AIAnalysisSuccess11"), pid("-5777481479266408132"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisSuccess12"), pid("5009"), kind("MONOBEHAVIOUR_FULL")],
+
+# AI Analysis Error
+
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysisError"), pid("-6487527823757201910"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysisError2"), pid("-2355739139603680418"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/bb919bae492d409a3e9fbcf316556d69"), txt("monob/AIAnalysisError3"), pid("2910944551135443267"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/957ccf0f2e31e85abdbe5ba4f8649313"), txt("monob/AIAnalysisError4"), pid("-2355739139603680418"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/48ee4452ff3d2bbdaf11bfcc67075c9c"), txt("monob/AIAnalysisError5"), pid("-2355739139603680418"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/957ccf0f2e31e85abdbe5ba4f8649313"), txt("monob/AIAnalysisError6"), pid("-67611938727969333"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/b0555cf6ae71aee9b0e38b3cd7151394"), txt("monob/AIAnalysisError7"), pid("-4683664595485433934"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/b0555cf6ae71aee9b0e38b3cd7151394"), txt("monob/AIAnalysisError8"), pid("2221430576442720181"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/48ee4452ff3d2bbdaf11bfcc67075c9c"), txt("monob/AIAnalysisError9"), pid("-4424721504833069424"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4be17daf55f05c65ccfd57f8ea68d7db"), txt("monob/AIAnalysisError10"), pid("-7999675437317082824"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4be17daf55f05c65ccfd57f8ea68d7db"), txt("monob/AIAnalysisError11"), pid("937102992448591498"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisError12"), pid("4607"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisError13"), pid("5004"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisError14"), pid("5209"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisError15"), pid("5188"), kind("MONOBEHAVIOUR_FULL")],
+[ga("sharedassets5.assets"), txt("monob/AIAnalysisError16"), pid("5272"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysisError17"), pid("10642"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level6"), txt("monob/AIAnalysisError18"), pid("10793"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysisError19"), pid("17984"), kind("MONOBEHAVIOUR_FULL")],
+[ga("level5"), txt("monob/AIAnalysisError20"), pid("17965"), kind("MONOBEHAVIOUR_FULL")],
+
+# Loading
+
+[ga("StreamingAssets/AssetBundles/73d0c4790b71cc4f192bc2a5bd876dc0"), png("img/Loading"), pid("-2728538317929109772")],
+[ga("sharedassets5.assets"), txt("monob/Loading"), pid("5194"), kind("MONOBEHAVIOUR_FULL")],
+[ga("StreamingAssets/AssetBundles/4be17daf55f05c65ccfd57f8ea68d7db"), txt("monob/Loading2"), pid("7178209103539227312"), kind("MONOBEHAVIOUR_FULL")],
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: Font
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Simplified Chinese Font: zero
+
+[ga("sharedassets0.assets"), txt("Font/CS_MYingHeiPRC-W4 SDF-sharedassets0.assets-73"), pid("73"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), txt("Font/CS_MYingHeiPRC-W7 SDF-sharedassets0.assets-74"), pid("74"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), png("Font/CS_MYingHeiPRC-W4 SDF Atlas-sharedassets0.assets-35"), pid("35"), fid("0")],
+
+[ga("sharedassets0.assets"), png("Font/CS_MYingHeiPRC-W7 SDF Atlas-sharedassets0.assets-34"), pid("34"), fid("0")],
+
+[ga("StreamingAssets/AssetBundles/b591d563e28ea600e17c7ecc1de88882"), txt("Font/CS_MBanquetPPRC-Medium SDF-CAB-4d1e97a05a90cf46bb557a724a4fc896-7415903380142014625"), pid("7415903380142014625"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/b591d563e28ea600e17c7ecc1de88882"), png("Font/CS_MBanquetPPRC-Medium SDF Atlas-CAB-4d1e97a05a90cf46bb557a724a4fc896-3580410914575247944"), pid("3580410914575247944")],
+
+[ga("StreamingAssets/AssetBundles/b7f70e96fed7a72a6cbf8322939af306"), txt("Font/CS_MYingHeiPRC-W4 SDF-CAB-bdb413e8910996daca9e6c703d2044f1--616773253511097120"), pid("-616773253511097120"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/b7f70e96fed7a72a6cbf8322939af306"), png("Font/CS_MYingHeiPRC-W4 SDF Atlas-CAB-bdb413e8910996daca9e6c703d2044f1--7420022940017607160"), pid("-7420022940017607160")],
+
+[ga("StreamingAssets/AssetBundles/56215f0b9766249ea561c596797f0394"), txt("Font/CS_MYingHeiPRC-W7 SDF-CAB-025367d890b0d7cb17a20ef690d13f92--3179735933595637685"), pid("-3179735933595637685"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/56215f0b9766249ea561c596797f0394"), png("Font/CS_MYingHeiPRC-W7 SDF Atlas-CAB-025367d890b0d7cb17a20ef690d13f92--1638595249575728960"), pid("-1638595249575728960")],
+
+# Simplified Chinese ACTUAL fonts: zero
+
+[ga("StreamingAssets/AssetBundles/cb1842907c24dafc5474714488b2b5a7"), txt("Font/CS_MBanquetPPRC-Medium-CAB-07f02c2c62ce45b6ba86f2a351dc5ba4-2399771936353938221"), pid("2399771936353938221"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/6d576b53865232783b4a304f3da8927e"), txt("Font/CS_MYingHeiPRC-W4-CAB-195e439b23bccf498f1b3f35dac994a0-6878770370955118695"), pid("6878770370955118695"), kind("FONT_CHECKED")],
+
+[ga("sharedassets0.assets"), txt("Font/CS_MYingHeiPRC-W4-sharedassets0.assets-52"), pid("52"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/1b4cd8f1cc854a6321e5a7bd4eda1842"), txt("Font/CS_MYingHeiPRC-W7-CAB-c89cd40e37cca0aa69f97f7218b60b96-7521748461502749769"), pid("7521748461502749769"), kind("FONT_CHECKED")],
+
+[ga("sharedassets0.assets"), txt("Font/CS_MYingHeiPRC-W7-sharedassets0.assets-49"), pid("49"), kind("FONT_CHECKED")],
+
+# Traditional Chinese Font: zero
+
+[ga("sharedassets0.assets"), txt("Font/CT_MElleHK-Light SDF-sharedassets0.assets-75"), pid("75"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), txt("Font/CT_MYingHeiHK-W7 SDF-sharedassets0.assets-76"), pid("76"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), png("Font/CT_MElleHK-Light SDF Atlas-sharedassets0.assets-37"), pid("37"), fid("0")],
+
+[ga("sharedassets0.assets"), png("Font/CT_MYingHeiHK-W7 SDF Atlas-sharedassets0.assets-38"), pid("38"), fid("0")],
+
+[ga("StreamingAssets/AssetBundles/53eedf5da32c1b3ad2d856338a007762"), txt("Font/CT_MElleHK-Light SDF-CAB-d93a5e782504e9bbbf823aa1c1dbfb0e--7228416923552820210"), pid("-7228416923552820210"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/53eedf5da32c1b3ad2d856338a007762"), png("Font/CT_MElleHK-Light SDF Atlas-CAB-d93a5e782504e9bbbf823aa1c1dbfb0e-2033943153263049803"), pid("2033943153263049803")],
+
+[ga("StreamingAssets/AssetBundles/e423e9b4e9b8f3aa0f21b4b8917410c4"), png("Font/CT_MLingWaiPHK-Light SDF Atlas-CAB-af3fb465aa058efec1f552a821929dca--725242199884493742"), pid("-725242199884493742")],
+
+[ga("StreamingAssets/AssetBundles/e423e9b4e9b8f3aa0f21b4b8917410c4"), txt("Font/CT_MLingWaiPHK-Light SDF-CAB-af3fb465aa058efec1f552a821929dca--3960779335032387107"), pid("-3960779335032387107"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/bce0df1a659395b96528a712ababc521"), png("Font/CT_MYingHeiHK-W7 SDF Atlas-CAB-bc36f1baf24170ec7e8fb95ae4b5d50c-2023584833608135"), pid("2023584833608135")],
+
+[ga("StreamingAssets/AssetBundles/bce0df1a659395b96528a712ababc521"), txt("Font/CT_MYingHeiHK-W7 SDF-CAB-bc36f1baf24170ec7e8fb95ae4b5d50c--3871393489112713615"), pid("-3871393489112713615"), kind("MONOBEHAVIOUR_FONT")],
+
+# Traditional Chinese ACTUAL fonts: zero
+
+[ga("StreamingAssets/AssetBundles/848a5397f11dd964159985e5f09f9758"), txt("Font/CT_MElleHK-Light-CAB-79a4e0642b00f3280a3907e747542391--8967752573966602746"), pid("-8967752573966602746"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/5f4132a7b84006b5f64af9dbce66e04b"), txt("Font/CT_MLingWaiPHK-Light-CAB-c37d1ffd5c702382f4c00783248b2f16-845695669914139141"), pid("845695669914139141"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/a41ce39468465bbfc918a0f6f51fd046"), txt("Font/CT_MYingHeiHK-W7-CAB-404db7d1b83fd938a7b2d9d6a6637e31--4120710302509554085"), pid("-4120710302509554085"), kind("FONT_CHECKED")],
+
+[ga("sharedassets0.assets"), txt("Font/CT_MYingHeiHK-W7-sharedassets0.assets-50"), pid("50"), kind("FONT_CHECKED")],
+
+# Korean Font: zero
+
+[ga("sharedassets0.assets"), txt("Font/KR_SeolSans-Bold SDF-sharedassets0.assets-80"), pid("80"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), txt("Font/KR_SeolSans-Light SDF-sharedassets0.assets-81"), pid("81"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("sharedassets0.assets"), png("Font/KR_SeolSans-Bold SDF Atlas-sharedassets0.assets-36"), pid("36"), fid("0")],
+
+[ga("sharedassets0.assets"), png("Font/KR_SeolSans-Light SDF Atlas-sharedassets0.assets-22"), pid("22"), fid("0")],
+
+[ga("StreamingAssets/AssetBundles/0d442d3b77b43f7ff0faa9dced3eacd4"), txt("Font/KR_FOTK-YDSachungiM SDF-CAB-982187048d9266ef434ac4a66ab8d18b--7515662475095398859"), pid("-7515662475095398859"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/0d442d3b77b43f7ff0faa9dced3eacd4"), png("Font/KR_FOTK-YDSachungiM SDF Atlas-CAB-982187048d9266ef434ac4a66ab8d18b-8644299740704353305"), pid("8644299740704353305")],
+
+[ga("StreamingAssets/AssetBundles/cd810a08e4fbd6af90e5ad9a6a25b82c"), txt("Font/KR_SeolSans-Bold SDF-CAB-c38e4d0f94b9a6c2d880d3e90a289531-6413653702935725010"), pid("6413653702935725010"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/cd810a08e4fbd6af90e5ad9a6a25b82c"), png("Font/KR_SeolSans-Bold SDF Atlas-CAB-c38e4d0f94b9a6c2d880d3e90a289531--298021054163976178"), pid("-298021054163976178")],
+
+[ga("StreamingAssets/AssetBundles/d875be860e14c986fcb02c8eee78a77e"), txt("Font/KR_SeolSans-Light SDF-CAB-8838e319eb2cb85b546bedcb5d8b5c56-5187605051058850563"), pid("5187605051058850563"), kind("MONOBEHAVIOUR_FONT")],
+
+[ga("StreamingAssets/AssetBundles/d875be860e14c986fcb02c8eee78a77e"), png("Font/KR_SeolSans-Light SDF Atlas-CAB-8838e319eb2cb85b546bedcb5d8b5c56--2387733726161300124"), pid("-2387733726161300124")],
+
+# Korean ACTUAL fonts: zero
+
+[ga("StreamingAssets/AssetBundles/44eca65197692d71c29ae910a7c77e67"), txt("Font/KR_SeolSans-Light-CAB-64086db6687af7d91a3539c4bdee6190--8077558200404687475"), pid("-8077558200404687475"), kind("FONT_CHECKED")],
+
+[ga("sharedassets0.assets"), txt("Font/KR_SeolSans-Light-sharedassets0.assets-51"), pid("51"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/b6a92ee8c11527b16f43412211132834"), txt("Font/KR_SeolSans-Bold-CAB-ebd58163d25f950beceac31da9c5a811-1374149852627105606"), pid("1374149852627105606"), kind("FONT_CHECKED")],
+
+[ga("sharedassets0.assets"), txt("Font/KR_SeolSans-Bold-sharedassets0.assets-55"), pid("55"), kind("FONT_CHECKED")],
+
+[ga("StreamingAssets/AssetBundles/021006a55765ce7f6ec00ebd55e787b9"), txt("Font/KR_FOTK-YDSachungiM-CAB-ac2305f39ce4a81b52f99730b7b43f72--5868876731599037013"), pid("-5868876731599037013"), kind("FONT_CHECKED")],
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: Menu
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+//# Disable Options Menu entirely
+//[ga("StreamingAssets/AssetBundles/fc1581ec86b480be1ccdc08079a5f533"), txt("monob/menu/options/DisableOptionsEntirely"), pid("-927819786666653158"), kind("MONOBEHAVIOUR_FULL")],
+
+//# Make Language Settings Invisible (but functional)
+//[ga("StreamingAssets/AssetBundles/fc1581ec86b480be1ccdc08079a5f533"), txt("monob/menu/options/MakeLanguageSettingsInvisible"), pid("7043094447737365148"), kind("MONOBEHAVIOUR_FULL")],
+
+# Make language arrows invisible
+[ga("StreamingAssets/AssetBundles/fc1581ec86b480be1ccdc08079a5f533"), txt("monob/menu/options/ArrowRight"), pid("-4967075276518645934"), kind("GAMEOBJECT_FULL")],
+[ga("StreamingAssets/AssetBundles/fc1581ec86b480be1ccdc08079a5f533"), txt("monob/menu/options/ArrowLeft"), pid("8605131417205685952"), kind("GAMEOBJECT_FULL")],
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+@ROOT: DLL
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Annulla tutte le lingue che non siano inglese
+
+[ga("Managed/Assembly-CSharp.dll"), kind("DLL_PATCH")]

@@ -1,0 +1,12 @@
+*.bak
+/FontReplacementHunter/bin
+/FontReplacementHunter/obj
+/UnityBundleCompressor/.vs
+/UnityBundleCompressor/UnityBundleCompressor/bin
+/UnityBundleCompressor/UnityBundleCompressor/obj
+/UnityDLLPatcher/DllPatcher/bin
+/UnityDLLPatcher/DllPatcher/obj
+*.tpk
+/compress_logs
+/before
+/after
